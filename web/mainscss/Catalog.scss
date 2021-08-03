@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    background-color: #efefef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    a:link{
+        color: black;
+        text-decoration: none;
+    }
+    a:visited{
+        color: black;
+        text-decoration: none;
+    }
+    a:hover{
+        color: black;
+        text-decoration: none;
+    }
+    ul {
+        list-style-type: none;
+    }
+}
+.navbar{
+    width: 1920px;
+    height: 110px;
+    padding: 1em;
+    background-color: white;
+}
+.mobile-menu{
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    width: 184px;
+    height: 131px;
+}
+.largeregular{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 30px ;
+    left: 270px;
+    font-weight: bolder;
+    font-size: 52px;
+}
+.smallbold{
+    text-decoration: none;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    top: 30px ;
+    left: 520px;
+    font-size: 52px;
+}
+.orangebutton{
+    text-decoration: none;
+    background: #FFAA00;
+    font-weight: bolder;
+    border-radius: 100px;
+    position: absolute;
+    padding: .2em 1.3em;
+    top: 20px ;
+    left: 1528px;
+    font-size: 52px;
+    a:link{
+        color: white;
+        text-decoration: none;
+    }
+    a:visited{
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        color: white;
+        text-decoration: none;
+    }
+}
+.content
+.gambarmarble{
+    position: absolute;
+    width: 646px;
+    height: 861px;
+    left: 128px;
+    top: 448px;
+}
+.gambarbrownies{
+    position: absolute;
+    width: 638px;
+    height: 851px;
+    left: 136px;
+    top: 1675px;
+}
+.gambarbomboloni{
+    position: absolute;
+    width: 638px;
+    height: 851px;
+    left: 136px;
+    top: 2892px;
+}
+.gambarcheesecake{
+    position: absolute;
+    width: 638px;
+    height: 851px;
+    left: 136px;
+    top: 4110px;
+}
+.marb{
+    position: absolute;
+    opacity: 100%;
+    width: 1px;
+    height: 861px;
+    background-color: black;
+    left: 929px;
+    top: 448.5px;
+}
+.brow{
+    position: absolute;
+    opacity: 100%;
+    width: 1px;
+    height: 861px;
+    background-color: black;
+    left: 929px;
+    top: 1675px;
+}
+.bomb{
+    position: absolute;
+    opacity: 100%;
+    width: 1px;
+    height: 861px;
+    background-color: black;
+    left: 928.5px;
+    top: 2892px;
+}
+.chee{
+    position: absolute;
+    opacity: 100%;
+    width: 1px;
+    height: 861px;
+    background-color: black;
+    left: 929px;
+    top: 4100px;
+}
+.bigblackmarble{
+    position: absolute;
+    width: 781px;
+    height: 144px;
+    left: 1060px;
+    top: 340px;
+    font-size: 108px;
+    color:#FFAA00 ;
+}
+.bigblackbrowniio{
+    position: absolute;
+    width: 781px;
+    height: 144px;
+    left: 1060px;
+    top: 1571px;
+    font-size: 108px;
+    color:#FFAA00 ;
+}
+.bigblackbomboloni{
+    position: absolute;
+    width: 781px;
+    height: 144px;
+    left: 1060px;
+    top: 2788px;
+    font-size: 108px;
+    color:#FFAA00 ;
+}
+.bigblackcheese{
+    position: absolute;
+    width: 781px;
+    height: 144px;
+    left: 1060px;
+    top: 4006px;
+    font-size: 108px;
+    color:#FFAA00 ;
+}
+.marbexp{
+    position: absolute;
+    width: 752px;
+    height: 688px;
+    left: 1060px;
+    top: 514px;
+    font-size: 89px;
+    line-height: 127px;
+}
+.browexp{
+    position: absolute;
+    width: 752px;
+    height: 688px;
+    left: 1060px;
+    top: 1741px;
+    font-size: 89px;
+    line-height: 127px;
+}
+.bombexp{
+    position: absolute;
+    width: 752px;
+    height: 688px;
+    left: 1060px;
+    top: 2958px;
+    font-size: 89px;
+    line-height: 127px;
+}
+.cheeexp{
+    position: absolute;
+    width: 752px;
+    height: 688px;
+    left: 1060px;
+    top: 4176px;
+    font-size: 89px;
+    line-height: 127px;
+}

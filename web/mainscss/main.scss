@@ -1,0 +1,92 @@
+body {
+    background-color: #efefef;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    text-decoration: none;
+    color: black;
+    a:link{
+        color: black;
+        text-decoration: none;
+    }
+    a:visited{
+        color: black;
+        text-decoration: none;
+    }
+    a:hover{
+        color: black;
+        text-decoration: none;
+    }
+    ul {
+        list-style-type: none;
+    }
+}   
+.navbar {
+    background-color: white;
+    padding: 1em;
+    width: 1920px ;
+    height: 110px;
+}
+.mobile-menu {
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    width: 184px;
+    height: 131px;
+} 
+.smallbold {
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 30px ;
+    left: 270px;
+    font-weight: bolder;
+    font-size: 52px;
+}
+.biasa {
+    text-decoration: none;
+    font-weight: normal;
+    color: black;
+    position: absolute;
+    top: 30px ;
+    left: 520px;
+    font-size: 52px;
+}
+.orangebutton {
+    text-decoration: none;
+    background: #FFAA00;
+    font-weight: bolder;
+    border-radius: 100px;
+    position: absolute;
+    padding: .2em 1.3em;
+    top: 20px ;
+    left: 1528px;
+    font-size: 52px;
+    a:link{
+        color: white;
+        text-decoration: none;
+    }
+    a:visited{
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        color: white;
+        text-decoration: none;
+    }
+}
+.subhead{
+    position: absolute;
+    text-align: center;
+    font-size: 52px;
+    left: 763.5px;
+    top: 380px;
+}
+.head{
+    position: absolute;
+    text-align: center;
+    font-weight: bolder;
+    left: 366.5px;
+    top: 440px;
+    font-size: 121px;
+    color:#FFAA00 ;
+}

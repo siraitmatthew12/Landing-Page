@@ -1,0 +1,134 @@
+body {
+  background-color: #efefef;
+  margin: 0%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body a:link {
+  color: black;
+  text-decoration: none;
+}
+
+body a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+body a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+body ul {
+  list-style-type: none;
+}
+
+.navbar {
+  width: 1920px;
+  height: 110px;
+  padding: 1em;
+  background-color: white;
+}
+
+.mobile-menu {
+  position: absolute;
+  top: 5px;
+  left: 16px;
+  width: 184px;
+  height: 131px;
+}
+
+.largeregular {
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  top: 30px;
+  left: 270px;
+  font-weight: bolder;
+  font-size: 52px;
+}
+
+.smallbold {
+  text-decoration: none;
+  font-weight: normal;
+  color: black;
+  position: absolute;
+  top: 30px;
+  left: 520px;
+  font-size: 52px;
+}
+
+.orangebutton {
+  text-decoration: none;
+  background: #FFAA00;
+  font-weight: bolder;
+  border-radius: 100px;
+  position: absolute;
+  padding: .2em 1.3em;
+  top: 20px;
+  left: 1528px;
+  font-size: 52px;
+}
+
+.orangebutton a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.orangebutton a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.orangebutton a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.bigblackorange {
+  position: absolute;
+  width: 781px;
+  height: 144px;
+  left: 570px;
+  top: 200px;
+  font-size: 108px;
+  font-weight: bolder;
+  color: #FFAA00;
+}
+
+.whatsapp {
+  position: absolute;
+  width: 179px;
+  height: 179px;
+  left: 428px;
+  top: 425px;
+}
+
+.instagram {
+  position: absolute;
+  width: 179px;
+  height: 179px;
+  left: 428px;
+  top: 599px;
+}
+
+.notlp {
+  position: absolute;
+  width: 691px;
+  height: 118px;
+  left: 636px;
+  top: 361px;
+  font-size: 89px;
+  font-weight: normal;
+}
+
+.email {
+  position: absolute;
+  width: 864px;
+  height: 118px;
+  left: 628px;
+  top: 533px;
+  font-size: 89px;
+  font-weight: normal;
+}
+/*# sourceMappingURL=Contact.css.map */
